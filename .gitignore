@@ -20,6 +20,9 @@
 # Mono auto generated files
 mono_crash.*
 
+.idea/
+*.DotSettings.user
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
