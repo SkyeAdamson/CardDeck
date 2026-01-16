@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeck", "CardDeck\CardDeck.csproj", "{A47FE2EA-7ED1-4FA8-B0F5-1D32D997511A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeck.Tests", "CardDeck.Tests\CardDeck.Tests.csproj", "{0E436856-8A8C-482C-AE4B-422BE4BD7286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47FE2EA-7ED1-4FA8-B0F5-1D32D997511A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47FE2EA-7ED1-4FA8-B0F5-1D32D997511A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47FE2EA-7ED1-4FA8-B0F5-1D32D997511A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47FE2EA-7ED1-4FA8-B0F5-1D32D997511A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E436856-8A8C-482C-AE4B-422BE4BD7286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E436856-8A8C-482C-AE4B-422BE4BD7286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E436856-8A8C-482C-AE4B-422BE4BD7286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E436856-8A8C-482C-AE4B-422BE4BD7286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
