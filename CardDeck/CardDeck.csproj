@@ -12,8 +12,8 @@
         <Company>Skye</Company>
         <Description>A simple library for a simple card deck.</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <PackageProjectUrl>https://github.com/yourgithub/CardDeck</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/yourgithub/CardDeck</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/SkyeAdamson/CardDeck</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/SkyeAdamson/CardDeck</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <IncludeSymbols>true</IncludeSymbols>
